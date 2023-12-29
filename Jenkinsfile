@@ -13,6 +13,16 @@ hello()
     
   }
 }
+stage("Sharelib shell test ls command"){
+
+  steps {
+
+script {
+script()
+}
+    
+  }
+}
 
   }
 
